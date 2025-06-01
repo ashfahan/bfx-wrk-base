@@ -29,5 +29,9 @@
       "name": "prdn",
       "email": "paolo@bitfinex.com"
     }
-  ]
+  ],
+  "scripts": {
+    "start": "node services/run.js",
+    "test": "node tests/test.js"
+  }
 }
