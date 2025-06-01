@@ -1,0 +1,6 @@
+{
+  "host": "127.0.0.1",
+  "rpcPort": 9000,
+  "apiKey": "YOUR_API_KEY"
+}
+
